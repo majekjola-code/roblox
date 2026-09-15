@@ -7,16 +7,3 @@
     height: 70px;
     color: white;
 }
-
-git remote add origin https://github.com/majekjola-code/roblox.git
-git push -u origin main
-
-
-git add .
-
-
-
-git commit -m "the message"
-
-
-git push
